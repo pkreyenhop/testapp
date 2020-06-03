@@ -4,7 +4,7 @@
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (println "Hello, World!"))
+  (println "Hello, PK's World!"))
 
 (defn add2 [x]
   (+ 1 x))
