@@ -6,6 +6,6 @@
   [& args]
   (println "Hello, World!"))
 
-(defn add1 [x]
+(defn add2 [x]
   (+ 1 x))
-(add1 3)
+(add2 3)
